@@ -1,0 +1,29 @@
+.feed {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.upload-section {
+    margin-bottom: 20px;
+}
+
+.post {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.post img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.actions {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    font-size: 18px;
+    cursor: pointer;
+}

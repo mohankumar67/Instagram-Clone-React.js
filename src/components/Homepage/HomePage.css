@@ -1,0 +1,25 @@
+.homepage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #fafafa;
+}
+
+.main-content {
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin-top: 20px;
+}
+
+.feed-section {
+    width: 60%;
+    margin-right: 20px;
+}
+
+.sidebar {
+    width: 25%;
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+}

@@ -1,0 +1,16 @@
+.sidebar {
+    width: 30%;
+    padding: 20px;
+    background: white;
+    border-left: 1px solid #ddd;
+}
+
+.profile {
+    display: flex;
+    align-items: center;
+}
+
+.profile img {
+    border-radius: 50%;
+    margin-right: 10px;
+}
